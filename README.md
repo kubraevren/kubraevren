@@ -40,18 +40,17 @@
 
 | Proje Adı | Açıklama |
 |-----------|----------|
-| 🗨️ **Chatleske** | Java ile yazılmış temel bir sohbet uygulaması |
-| 💬 **Chatlesme** | Gerçek zamanlı mesajlaşma uygulaması |
-| 🧪 **Java Örnekleri** | Öğrendiğim Java konularına ait mini uygulamalar |
-| 🎯 **C# Uygulamaları** | Basit Windows Form projeleri |
+| 🗨️ **onlineShopping** | Java Spring Boot ile yazılmış e-ticaret sitesi |
+| 💬 **chatApplication** | Gerçek zamanlı mesajlaşma uygulaması |
+| 🧪 **JavaPatikaOrnekleri** | Öğrendiğim Java konularına ait mini uygulamalar |
+| 🎯 **havaalani** | Python ile yapılmış Tkinter masaüstü uygulaması  |
 
 ---
 
 ### 📫 Bana Ulaş
 - 💌 haticeevren43@gmail.com 
 - 💼 [LinkedIn Profilim]https://www.linkedin.com/in/hatice-k%C3%BCbra-evren/
-- 🐙 GitHub: [@kubraevren](https://github.com/kubraevren)
 
 ---
 
-<p align="center">✨ **Gelişim Yolculuğum Devam Ediyor...** ✨</p>
+<p align="center">✨ Gelişim Yolculuğum Devam Ediyor... ✨</p>
