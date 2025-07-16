@@ -47,13 +47,8 @@
 
 ---
 
-### 📫 Bana Ulaş
-- 💌 haticeevren43@gmail.com 
-- 💼 [LinkedIn Profilim]https://www.linkedin.com/in/hatice-k%C3%BCbra-evren/
 
----
 
-<p align="center">✨ Gelişim Yolculuğum Devam Ediyor... ✨</p>
 
 
 
@@ -77,7 +72,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kubraevren&label=Profile%20views&color=0e75b6&style=flat" alt="kubraevren" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kubraevren" alt="kubraevren" /></a> </p>
 
 
 
@@ -86,5 +80,10 @@
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=kubraevren&show_icons=true&locale=en" alt="kubraevren" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kubraevren&" alt="kubraevren" /></p>
+### 📫 Bana Ulaş
+- 💌 haticeevren43@gmail.com 
+- 💼 [LinkedIn Profilim]https://www.linkedin.com/in/hatice-k%C3%BCbra-evren/
 
+---
+
+<p align="center">✨ Gelişim Yolculuğum Devam Ediyor... ✨</p>
