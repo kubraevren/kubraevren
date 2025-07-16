@@ -1,4 +1,4 @@
-<h1 align="center">🌸 Merhaba! Ben Kübra 🌸</h1>
+<h1 align="center">Merhaba 👋, ben KÜBRA 🌸</h1>
 <p align="center">
   👩‍💻 Bilgisayar Mühendisliği Son Sınıf Öğrencisi <br>
   💡 Yazılım Geliştirici Adayı  <br>
@@ -74,16 +74,12 @@
 
 
 
-<h1 align="center">Merhaba 👋, ben KÜBRA</h1>
-<h3 align="center">Türkiye'den tutkulu bir genç geliştirici</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kubraevren&label=Profile%20views&color=0e75b6&style=flat" alt="kubraevren" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kubraevren" alt="kubraevren" /></a> </p>
 
-<h3 align="left">Benimle iletişime geçin:</h3>
-<p align="left">
-</p>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kubraevren&show_icons=true&locale=en&layout=compact" alt="kubraevren" /></p>
