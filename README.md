@@ -2,7 +2,6 @@
 <p align="center">
   👩‍💻 Bilgisayar Mühendisliği Son Sınıf Öğrencisi <br>
   💡 Yazılım Geliştirici Adayı  <br>
-  🌱 Yeni teknolojilerle iç içe, projelerle donanmış bir yolculuktayım!
 </p>
 
 ---
