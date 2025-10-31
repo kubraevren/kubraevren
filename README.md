@@ -31,8 +31,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![React](https://img.shields.io/badge/-React-007396?style=for-the-badge&logo=react)
-![ReactNative](https://img.shields.io/badge/-ReactNative-007396?style=for-the-badge&logo=ReactNative)
-![React-Native](https://img.shields.io/badge/-React-Native-007396?style=for-the-badge&logo=React-Native)
+![ReactNative](https://img.shields.io/badge/-ReactNative-E34F26?style=for-the-badge&logo=ReactNative)
 
 
 > Ayrıca: Visual Studio, IntelliJ IDEA, Git, GitHub, VS Code
