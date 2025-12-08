@@ -8,8 +8,8 @@
 
 ### 💫 Hakkımda
 - 🎓 Şu an **Bartın Üniversitesinde** Bilgisayar Mühendisliği 4. sınıf öğrencisiyim.  
-- 💻 Yazılım geliştirmeye, özellikle Java, C# dillerine ilgi duyuyorum.  
-- 🛠️ Bitirme projemde Spring Boot üzerinde çalıştım.  
+- 💻 Yazılım geliştirmeye, özellikle Java, Javascript, C# dillerine ilgi duyuyorum.  
+- 🛠️ Java Spring Boot üzerinde çalıştım.  
 - ✍️ Boş zamanlarımda yeni teknolojileri öğreniyor ve küçük projeler geliştiriyorum.
 
 ---
