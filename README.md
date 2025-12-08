@@ -25,13 +25,13 @@
 ### 🚀 Kullandığım Teknolojiler
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
+![ReactNative](https://img.shields.io/badge/-ReactNative-E34F26?style=for-the-badge&logo=ReactNative)
+![React](https://img.shields.io/badge/-React-007396?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql)
-![React](https://img.shields.io/badge/-React-007396?style=for-the-badge&logo=react)
-![ReactNative](https://img.shields.io/badge/-ReactNative-E34F26?style=for-the-badge&logo=ReactNative)
 
 
 > Ayrıca: Visual Studio, IntelliJ IDEA, Git, GitHub, VS Code
@@ -42,9 +42,9 @@
 
 | Proje Adı | Açıklama |
 |-----------|----------|
-| 🗨️ **onlineShopping** | Java Spring Boot ile yazılmış e-ticaret sitesi |
+| 🗨️ **Budget-App Backend** | Java Spring Boot ile yazılmış bütçe takip backend uygulaması |
 | 💬 **chatApplication** | Gerçek zamanlı mesajlaşma uygulaması |
-| 🧪 **JavaPatikaOrnekleri** | Öğrendiğim Java konularına ait mini uygulamalar |
+| 🧪 **React Native Örnekleri** | Öğrendiğim React-Native konularına ait mini uygulamalar |
 | 🎯 **havaalani** | Python ile yapılmış Tkinter masaüstü uygulaması  |
 
 ---
