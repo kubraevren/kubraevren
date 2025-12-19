@@ -47,13 +47,14 @@
 
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kubraevren&show_icons=true&theme=default&hide_border=true&locale=tr&custom_title=GitHub İstatistiklerim" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubraevren&layout=compact&theme=default&hide_border=true&locale=tr" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kubraevren&show_icons=true&hide_border=true&locale=tr&custom_title=GitHub%20İstatistiklerim" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubraevren&layout=compact&hide_border=true&locale=tr" height="180" />
 </div>
-<br>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kubraevren&theme=default&hide_border=true&locale=tr" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kubraevren&hide_border=true&locale=tr" />
 </div>
+
 <br>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kubraevren&no-frame=true&margin-w=15" />
