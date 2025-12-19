@@ -51,9 +51,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubraevren&layout=compact&hide_border=true&locale=tr" height="180" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kubraevren&hide_border=true&locale=tr" />
-</div>
+
 
 <br>
 <div align="center">
