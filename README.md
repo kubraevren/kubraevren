@@ -1,11 +1,4 @@
 <h1 align="center">Merhaba, ben KÜBRA 👋</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Bilgisayar+M%C3%BHC3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;Backend+Developer+Aday%C4%B1;Java+%26+Spring+Boot+Tutkunu;React+Native+Geli%C5%9Ftiricisi" alt="Typing SVG" />
-  </a>
-</p>
-
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=kubraevren&label=Profil+Görüntülenme&color=blue&style=flat" alt="kubraevren" />
 </p>
