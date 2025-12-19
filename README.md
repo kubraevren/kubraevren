@@ -8,10 +8,9 @@
 ### 👩‍💻 Hakkımda
 
 🎓 **Bartın Üniversitesi** Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. <br>
-Yazılım geliştirme tutkum, karmaşık problemleri **Java** ve **Spring Boot** ekosistemiyle çözme isteğimden geliyor. Şu anda hem backend mimarisi üzerine yoğunlaşıyor hem de **React Native** ile mobil dünyayı keşfediyorum.
+Şu anda hem backend mimarisi üzerine yoğunlaşıyor hem de **React Native** ile mobil dünyayı keşfediyorum.
 
 * 🔭 Şu an **Spring Boot ile gelişmiş bir Kütüphane Otomasyonu** üzerine çalışıyorum.
-* 🌱 **Microservices** ve **Docker** teknolojilerini öğreniyorum.
 * ⚡ **Backend** ve **Mobil** teknolojileri birleştirerek uçtan uca projeler üretmeyi hedefliyorum.
 
 ---
@@ -32,16 +31,7 @@ Yazılım geliştirme tutkum, karmaşık problemleri **Java** ve **Spring Boot**
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
----
-
-### 📊 GitHub İstatistiklerim
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kubraevren&show_icons=true&theme=radical&hide_border=true&locale=tr" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubraevren&layout=compact&theme=radical&hide_border=true&locale=tr" height="180" alt="languages graph" />
-</div>
-
+<br>
 ---
 
 ### 🧩 Öne Çıkan Projeler
@@ -55,6 +45,21 @@ Yazılım geliştirme tutkum, karmaşık problemleri **Java** ve **Spring Boot**
 
 ---
 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kubraevren&show_icons=true&theme=default&hide_border=true&locale=tr" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubraevren&layout=compact&theme=default&hide_border=true&locale=tr" height="180" alt="languages graph" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kubraevren&theme=default&hide_border=true&locale=tr" alt="GitHub Streak" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kubraevren&theme=flat&no-frame=true&margin-w=15" />
+</div>
+
+<br>
 ### 📫 İletişim
 
 <p align="left">
