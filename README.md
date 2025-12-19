@@ -1,88 +1,74 @@
-<h1 align="center">Merhaba 👋, ben KÜBRA 🌸</h1>
+<h1 align="center">Merhaba, ben KÜBRA 👋</h1>
+
 <p align="center">
-  👩‍💻 Bilgisayar Mühendisliği Son Sınıf Öğrencisi <br>
-  💡 Yazılım Geliştirici Adayı  <br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Bilgisayar+M%C3%BHC3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;Backend+Developer+Aday%C4%B1;Java+%26+Spring+Boot+Tutkunu;React+Native+Geli%C5%9Ftiricisi" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=kubraevren&label=Profil+Görüntülenme&color=blue&style=flat" alt="kubraevren" />
 </p>
 
 ---
 
-### 💫 Hakkımda
-- 🎓 Şu an **Bartın Üniversitesinde** Bilgisayar Mühendisliği 4. sınıf öğrencisiyim.  
-- 💻 Yazılım geliştirmeye, özellikle Java, Javascript, C# dillerine ilgi duyuyorum.  
-- 🛠️ Java Spring Boot üzerinde çalıştım.  
-- ✍️ Boş zamanlarımda yeni teknolojileri öğreniyor ve küçük projeler geliştiriyorum.
+### 👩‍💻 Hakkımda
+
+🎓 **Bartın Üniversitesi** Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. <br>
+Yazılım geliştirme tutkum, karmaşık problemleri **Java** ve **Spring Boot** ekosistemiyle çözme isteğimden geliyor. Şu anda hem backend mimarisi üzerine yoğunlaşıyor hem de **React Native** ile mobil dünyayı keşfediyorum.
+
+* 🔭 Şu an **Spring Boot ile gelişmiş bir Kütüphane Otomasyonu** üzerine çalışıyorum.
+* 🌱 **Microservices** ve **Docker** teknolojilerini öğreniyorum.
+* ⚡ **Backend** ve **Mobil** teknolojileri birleştirerek uçtan uca projeler üretmeyi hedefliyorum.
 
 ---
 
-### 💼 Hedeflerim
-- 🔭 Gerçek projelerle GitHub profilimi zenginleştirmek  
-- 📚 Her gün en az bir şey öğrenmek  
-- 💪 Yazılım dünyasında sağlam adımlarla ilerlemek  
-- ✨ Kendimi back-end ve mobil alanlarında geliştirmek
+### 🛠️ Yetkinliklerim & Teknolojiler
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
-### 🚀 Kullandığım Teknolojiler
+### 📊 GitHub İstatistiklerim
 
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
-![ReactNative](https://img.shields.io/badge/-ReactNative-E34F26?style=for-the-badge&logo=ReactNative)
-![React](https://img.shields.io/badge/-React-007396?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-
-> Ayrıca: Visual Studio, IntelliJ IDEA, Git, GitHub, VS Code
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kubraevren&show_icons=true&theme=radical&hide_border=true&locale=tr" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubraevren&layout=compact&theme=radical&hide_border=true&locale=tr" height="180" alt="languages graph" />
+</div>
 
 ---
 
-### 🧩 Projelerimden Öne Çıkanlar
+### 🧩 Öne Çıkan Projeler
 
-| Proje Adı | Açıklama |
-|-----------|----------|
-| 🗨️ **Budget-App Backend** | Java Spring Boot ile yazılmış bütçe takip backend uygulaması |
-| 💬 **chatApplication** | Gerçek zamanlı mesajlaşma uygulaması |
-| 🧪 **React Native Örnekleri** | Öğrendiğim React-Native konularına ait mini uygulamalar |
-| 🎯 **havaalani** | Python ile yapılmış Tkinter masaüstü uygulaması  |
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kubraevren&label=Profile%20views&color=0e75b6&style=flat" alt="kubraevren" /> </p>
-
-
-
-
-
-
-### 📫 Bana Ulaş
-- 💌 haticeevren43@gmail.com 
-- 💼 [LinkedIn Profilim]https://www.linkedin.com/in/hatice-k%C3%BCbra-evren/
+| Proje İsmi | Teknoloji | Açıklama |
+| :--- | :---: | :--- |
+| 📚 **Library Management** | `Java` `Spring Boot` `PostgreSQL` | Katmanlı mimari ile geliştirilmiş, JWT güvenlikli kütüphane backend servisi. |
+| 💰 **Budget-App** | `Spring Boot` `React Native` | Kişisel bütçe ve harcama takip uygulaması (Full-Stack). |
+| 💬 **Chat App** | `Java` `Socket` | Gerçek zamanlı mesajlaşma uygulaması. |
+| ✈️ **Flight System** | `Python` `Tkinter` | Masaüstü havaalanı yönetim sistemi simülasyonu. |
 
 ---
 
-<p align="center">✨ Gelişim Yolculuğum Devam Ediyor... ✨</p>
+### 📫 İletişim
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/hatice-k%C3%BCbra-evren/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:haticeevren43@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
