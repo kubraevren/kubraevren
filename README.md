@@ -47,7 +47,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kubraevren&show_icons=true&theme=default&hide_border=true&locale=tr" height="180" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kubraevren&show_icons=true&theme=default&hide_border=true&locale=tr&custom_title=GitHub İstatistiklerim" height="180" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubraevren&layout=compact&theme=default&hide_border=true&locale=tr" height="180" alt="languages graph" />
 </div>
 <br>
@@ -56,11 +56,10 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kubraevren&theme=flat&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kubraevren&no-frame=true&margin-w=15" />
 </div>
 
 <br>
-### 📫 İletişim
 
 <p align="left">
   <a href="https://www.linkedin.com/in/hatice-k%C3%BCbra-evren/" target="_blank">
